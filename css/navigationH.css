@@ -1,0 +1,36 @@
+/* Style for our header texts
+ * --------------------------------------- */
+h1{
+    font-size: 5em;
+    font-family: arial,helvetica;
+    color: #000;
+    margin:0;
+}
+.intro p{
+    color: #000;
+}
+
+/* Centered texts in each section
+ * --------------------------------------- */
+.section{
+    text-align:center;
+}
+
+
+/* Overwriting styles for the navigation dots (to place it where we want)
+ * --------------------------------------- */
+.fullPage-slidesNav.bottom{
+    bottom: 25px;
+}
+
+/* Bottom menu
+ * --------------------------------------- */
+#infoMenu li a {
+    color: #000;
+}
+
+#section2 h1{
+    color: #333;
+}
+
+</style>
